@@ -7,6 +7,17 @@
 
 ![Captura de Tela (4)](https://github.com/PedroL1122/BMI-CALCULATOR/assets/95534653/07a8c7e9-8306-4fee-ab21-7017d0e2d2ec)
 
+
+## Technologies used in this Project
+
+-ReactJS
+
+-Bootstrap
+
+-Javascript
+
+-Hmtl/css
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
