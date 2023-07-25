@@ -5,7 +5,7 @@
   </p>
 </div>
 
-![Captura de Tela (4)](https://github.com/PedroL1122/BMI-CALCULATOR/assets/95534653/07a8c7e9-8306-4fee-ab21-7017d0e2d2ec)
+![Captura de Tela (5)](https://github.com/PedroL1122/BMI-CALCULATOR/assets/95534653/68bf9026-f35a-4782-b0ed-21b9faadf8af)
 
 
 ## Technologies used in this Project
