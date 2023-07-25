@@ -59,7 +59,7 @@ export default function App() {
           <input
             id="Weight"
             type="Weight in kg"
-            placeholder="Weight in cm"
+            placeholder="Weight in kg"
             value={weight}
             onChange={(e) => setWeight(e.target.value)}
           />
